@@ -52,17 +52,17 @@ Drag Educoin-qt to your applications folder, and then run Educoin-qt (GUI) or Ed
 
 ### Configuration ./educoin/educoin.conf
 
-rpcuser=rpc_educoin
-rpcpassword=eAerhMZQtJF5LdR2oBQ3K1Zqeq9J2WxaJzY
-rpcbind=0.0.0.0
-rpcallowip=127.0.0.1
-port=38110
-rpcport=38109
-listen=1
-server=1
-txindex=1
-daemon=1
-addnode=node1.educoins.io
+rpcuser=rpc_educoin</br>
+rpcpassword=eAerhMZQtJF5LdR2oBQ3K1Zqeq9J2WxaJzY</br>
+rpcbind=0.0.0.0</br>
+rpcallowip=127.0.0.1</br>
+port=38110</br>
+rpcport=38109</br>
+listen=1</br>
+server=1</br>
+txindex=1</br>
+daemon=1</br>
+addnode=node1.educoins.io</br>
 addnode=node2.educoins.io
 
 
